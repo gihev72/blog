@@ -2,10 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-
-
 .dark-bg {
-  background: #090D1F ;
+  background: #090d1f;
 }
 .border-t-b {
   border-top: solid 1px #ddd;
@@ -20,14 +18,12 @@
   /* box-shadow: 0 10px 20px rgba(255, 255, 255, 0.1); */
 }
 
-
 @media screen and (max-width: 640px) {
-
   .big-text {
     font-size: 3rem;
   }
-  
 }
+
 /* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
